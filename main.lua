@@ -30,7 +30,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Error",Text =
 wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Error",Text = "Getting Elude + Counter" ,Duration = 10, Icon = "rbxthumb://type=Asset&id=9649923610&w=150&h=150",Button1 = "ok"})
 wait(1)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/sussy/main/main.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/SlapBattlesTP3/main/main.lua'))()
 	]])
 end	
 game:GetService("TeleportService"):Teleport(7234087065)
